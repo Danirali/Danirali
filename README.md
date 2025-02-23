@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Daniyal
 
 - 📚BTEC Level 3 IT Student
-- 📍South Buckinghamshire
+- 🇬🇧 Stoke Poges, UK
 - 📍College: London
 - 💼 DevOps / Cyber Security 
 - 🛠️ Working on Containerisation
