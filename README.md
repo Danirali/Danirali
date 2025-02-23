@@ -3,6 +3,6 @@
 - 📚BTEC Level 3 IT Student
 - 📍South Buckinghamshire
 - 📍College: London
-- 💼 DevOps / Cyber Forensics Analyst
+- 💼 DevOps / Cyber Security 
 - 🛠️ Working on Containerisation
 - [Connect on LinkedIn](https://www.linkedin.com/in/daniyal-ali-67804227b)
